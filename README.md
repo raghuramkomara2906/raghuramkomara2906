@@ -4,9 +4,11 @@ Software Engineer and AI Researcher building healthcare AI systems, privacy-pres
 
 ## About Me
 
-I am pursuing an M.S. in Artificial Intelligence and Business Analytics at the University of South Florida. My work focuses on healthcare AI, federated learning, backend engineering, clinical data systems, cloud-native applications, and reproducible research workflows.
+I am an AI-focused Software Engineer and graduate student pursuing an M.S. in Artificial Intelligence and Business Analytics at the University of South Florida. My work sits at the intersection of research software engineering, machine learning, backend systems, and cloud-native application development.
 
-I build systems that connect machine learning research with real-world software: distributed AI pipelines, healthcare applications, REST APIs, microservices, database systems, and cloud deployments.
+I build software systems that support the full AI/ML lifecycle — from data preprocessing and model experimentation to API development, evaluation workflows, and deployment-ready infrastructure. My experience includes distributed ML pipelines, REST APIs, microservices, database systems, reproducible research environments, and applied AI applications.
+
+I am especially interested in building reliable, scalable, and maintainable software that helps transform research ideas into usable AI-driven systems.
 
 ## Current Focus
 - Research software engineering for AI/ML systems and data-driven applications
