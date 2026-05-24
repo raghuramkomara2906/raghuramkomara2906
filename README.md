@@ -9,13 +9,12 @@ I am pursuing an M.S. in Artificial Intelligence and Business Analytics at the U
 I build systems that connect machine learning research with real-world software: distributed AI pipelines, healthcare applications, REST APIs, microservices, database systems, and cloud deployments.
 
 ## Current Focus
-
-- Healthcare AI and clinical software systems
-- Federated learning and privacy-preserving machine learning
-- Research software engineering for biomedical data workflows
-- Backend APIs, microservices, and cloud-native applications
-- Clinical NLP, LLM fine-tuning, and structured data extraction
-- GenAI-enabled cybersecurity and SOC automation
+- Research software engineering for AI/ML systems and data-driven applications
+- Reproducible machine learning pipelines, experiment tracking, and model evaluation workflows
+- Backend APIs, microservices, and cloud-native infrastructure for scalable AI applications
+- Data processing, feature engineering, and analytics workflows for applied research
+- Deep learning, NLP, LLM fine-tuning, and applied machine learning experimentation
+- Translating research prototypes into reliable, maintainable, and deployment-ready software systems
 
 ## Featured Projects
 
